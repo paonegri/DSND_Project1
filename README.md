@@ -9,14 +9,14 @@
 
 ## Installation <a name="installation"></a>
 
-The code should run with no issues using Python versions 3.x. In addition, the code runs using these libraries:
+The code should run with no issues using Python versions 3.x. In addition, the code runs using these packages/libraries:
 
-1. pandas
-2. numpy
-3. matplotlib
-4. plotnine
-5. scikit-learn
-6. xgboost
+1. Pandas
+2. Numpy
+3. Matplotlib
+4. Plotnine
+5. Scikit-learn
+6. XGBoost
 
 
 ## Project Motivation<a name="motivation"></a>
@@ -24,7 +24,7 @@ The code should run with no issues using Python versions 3.x. In addition, the c
 For this project, I was interested in using the kaggle boxofficemojo dataset to better understand:
 
 1. How can we define a successful movie from a financial perspective?
-2. What internal factors (film production phase) define a successful movie?
+2. What internal factors (early stage of production) define a successful movie?
 3. Are these factors able to predict the success of a given film?
 
 
