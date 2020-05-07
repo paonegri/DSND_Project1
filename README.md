@@ -21,7 +21,7 @@ The code should run with no issues using Python versions 3.x. In addition, the c
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interested in using the kaggle boxofficemojo dataset to better understand:
+For this project, I was interested in using the Kaggle Boxofficemojo dataset to better understand:
 
 1. How can we define a successful movie from a financial perspective?
 2. What internal factors (early stage of production) define a successful movie?
@@ -31,7 +31,7 @@ For this project, I was interested in using the kaggle boxofficemojo dataset to 
 ## File Descriptions <a name="files"></a>
 
 The notebook available here attempts to answers the questions outlined in the Project Motivation using exploratory and predictive analysis. Markdown cells were used to assist in walking through the thought process for individual steps.   
-In addition, there is a csv file that contains the dataset necessary for the analysis
+In addition, there is a .csv file that contains the dataset necessary for the analysis
 
 ## Results<a name="results"></a>
 
