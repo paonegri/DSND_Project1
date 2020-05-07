@@ -35,12 +35,8 @@ In addition, there is a csv file that contains the dataset necessary for the ana
 
 ## Results<a name="results"></a>
 
-The main findings of the analysis can be found at the post available [here]()
+The main findings of the analysis can be found at the post available [here](https://medium.com/@shosan_71491/producing-a-winning-movie-are-early-stages-of-production-features-central-in-predicting-a-33ce741ebebb)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Kaggle for the data.  Is it possibile to find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/igorkirko/wwwboxofficemojocom-movies-with-budget-listed) 
-
-
-  
-
+Must give credit to Kaggle for the data.  Is it possibile to find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/igorkirko/wwwboxofficemojocom-movies-with-budget-listed)
